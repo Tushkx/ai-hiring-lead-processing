@@ -93,6 +93,8 @@ OpenAI
 JSON Parser
     ↓
 Google Sheets
+    ↓
+Gmail
 ```
 
 ---
